@@ -5,6 +5,11 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
+    path: '',
+    component: ListarPensamentoComponent,
+    pathMatch:'full'
+  },
+  {
     path: 'criar-pensamento',
     component: CriarPensamentoComponent
   },
