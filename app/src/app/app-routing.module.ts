@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const routes: Routes = [
   {
     path: '',
@@ -17,6 +18,9 @@ const routes: Routes = [
     component: ListarPensamentoComponent
   }
 ];
+=======
+const routes: Routes = [];
+>>>>>>> parent of b5d749a (listagem e criação de pensamentos check)
 =======
 const routes: Routes = [];
 >>>>>>> parent of b5d749a (listagem e criação de pensamentos check)
