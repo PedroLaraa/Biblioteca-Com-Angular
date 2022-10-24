@@ -1,34 +1,3 @@
 {
-  "pensamentos": [
-    {
-      "id": 1,
-      "conteudo": "Opa, bom dia!",
-      "autoria": "Pedro",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "I'm sad and know yeah",
-      "autoria": "XXXTentacion",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "My dad told me 'flex one hoe everytime u insecure'",
-      "autoria": "Juice Wrld",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Teste de pensamento",
-      "autoria": "Pedro Lara",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "Teste de pensamento",
-      "autoria": "Pedro Lara",
-      "modelo": "modelo1",
-      "id": 5
-    }
-  ]
+  "pensamentos": []
 }
