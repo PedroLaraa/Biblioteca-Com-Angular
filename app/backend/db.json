@@ -1,3 +1,10 @@
 {
-  "pensamentos": []
+  "pensamentos": [
+    {
+      "conteudo": "Teste de pensamento",
+      "autoria": "Pedro Lara",
+      "modelo": "modelo1",
+      "id": 1
+    }
+  ]
 }
